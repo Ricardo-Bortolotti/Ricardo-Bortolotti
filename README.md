@@ -13,7 +13,7 @@ Hi, there! I am Ricardo Bortolotti and this is my Data Science / Machine Learnin
 
 + Check out my data science portfolio. There, you will find projects involving machine learning classification, regression and clustering, as well as exploratory data analysis and other projects within the data environment.
 
-[Click here to see my data science portfolio]()
+[Click here to see my data science portfolio](https://github.com/Ricardo-Bortolotti/Data-Science-Portfolio/tree/main)
 
 ## Mathematics Professor
 
