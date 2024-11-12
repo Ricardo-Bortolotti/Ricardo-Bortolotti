@@ -9,18 +9,18 @@ Hi, there! I am Ricardo Bortolotti and this is my Data Science / Machine Learnin
 ## Skills
 
 + ⌨️ Hard skills: Python (pandas, numpy, matplotlib, seaborn, statsmodels, scipy, scikit-learn, tensorflow, keras), SQL, R, PowerBI, Statistics (descriptive and inferential), Machine Learning (classification, regression, clustering and time series), Mathematics (whole undergraduate and graduate curriculum).
-+ 👨🏻‍🏫 Soft skills: self-directed learning, effective communication, teamwork, quick adaptability, enthusiasm, passion with data and numbers and a results-oriented approach.
++ 👨🏻‍🏫 Soft skills: self-directed learning, effective communication, teamwork, quick adaptability, enthusiasm, passion for data and numbers, and a results-oriented approach.
 
 
 ## Data Science Portfolio
 
-+ Check out my data science portfolio. There, you will find projects involving machine learning classification, regression and clustering, as well as exploratory data analysis and other projects within the data environment.
++ Check out my data science portfolio. There, you will find projects involving Machine Learning classification, regression and clustering, as well as exploratory data analysis and other projects within the data environment.
 
 [Click here to see my data science portfolio](https://github.com/Ricardo-Bortolotti/Data-Science-Portfolio/tree/main)
 
 ## Mathematics Professor
 
-After my Ph.D., I worked for 10 years as an academic at UFPE (Universidade Federal de Pernambuco). I published scientific papers in high-impact scientific journals and tauch classes for graduation and undergraduation in mathematics, statistics, physics, computation and engineering.
+After my Ph.D., I worked for 10 years as an academic at UFPE (Universidade Federal de Pernambuco). I published scientific papers in high-impact scientific journals and taught classes for graduation and undergraduation in mathematics, statistics, physics, computation and engineering.
 
 ### Scientific Research
 
