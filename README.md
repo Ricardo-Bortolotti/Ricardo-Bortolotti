@@ -4,11 +4,12 @@ Hi, there! I am Ricardo Bortolotti and this is my Data Science / Machine Learnin
 
 + 🙋‍♂️ I am Ph.D. in Mathematics since 2014.
 + 👔 I have experience of 10 years as a Professor in one of the best federal universities of Brazil.
-+ 🪙 Currently my enthusiasm lies in Data Science / Machine Learning, mainly on algorithms strongly related to Statistics and Mathematics (see my projects below).
++ 🪙 Currently my enthusiasm lies in Data Science, Machine Learning and Quantitative Finances.
 
 ## Skills
 
 + ⌨️ Hard skills: Mathematics (calculus, linear algebra, optimization, probability, measure theory, dynamical systems), Statistics (descriptive and inferential, hypothesis testing, A/B testing, time series analysis), Python (pandas, numpy, matplotlib, seaborn, statsmodels, scipy, scikit-learn, tensorflow, keras), SQL, R, PowerBI, Machine Learning (classification, regression, clustering, feature engineering, model optimization, deep learning).
+  
 + 👨🏻‍🏫 Soft skills: self-directed learning, effective communication, teamwork, quick adaptability, enthusiasm, passion for data and numbers, and a results-oriented approach.
 
 
