@@ -1,10 +1,11 @@
 # Ph.D. Ricardo Bortolotti
 
-Hi, there! I am Ricardo Bortolotti and this is my Data Science / Machine Learning repository! 👋
+🙋‍♂️ Hi, there! I am Ricardo Bortolotti and this is my Data Science / Machine Learning repository! 👋
 
-+ 🙋‍♂️ I am Ph.D. in Mathematics since 2014.
-+ 👔 I have experience of 10 years as a Professor in one of the best federal universities of Brazil.
-+ 🪙 Currently my enthusiasm lies in Data Science, Machine Learning and Quantitative Finances.
++ 🎓 I have a Ph.D. in Mathematics since 2014.
++ 👔 In 2024, I transitioned my career to Data Science.
++ 🤖 Currently, I'm passionate about Data Science and Machine Learning.
++ 👨‍🏫 I have 10 years of experience as a Professor at one of Brazil’s top federal universities.
 
 ## Skills
 
