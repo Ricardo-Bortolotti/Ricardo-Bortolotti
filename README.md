@@ -1,11 +1,12 @@
 # Ph.D. Ricardo Bortolotti
 
 🙋‍♂️ Hi there! I'm Ricardo Bortolotti, and this is my Data Science & Machine Learning repository. 👋
-🎓 I hold a Ph.D. in Mathematics since 2014, with a strong academic background and publications in top-tier journals.
-👨‍🏫 I spent 10 years as a Professor at one of Brazil’s top federal universities, teaching and supervising research in pure mathematics.
-👔 In 2024, I transitioned into Data Science to apply mathematical and statistical modeling to real-world challenges.
-💼 I currently work as a Data Analyst at a fintech, focusing on analytics and modeling to optimize debt collection strategies.
-🤖 I'm passionate about solving complex problems using Data Science, Machine Learning, and rigorous mathematical thinking.
+
++ 🎓 I hold a Ph.D. in Mathematics since 2014.
++ 👨‍🏫 I spent 10 years as a Professor at one of Brazil’s top federal universities, teaching and supervising research in pure mathematics, with publications in top-tier journals.
++ 👔 In 2024, I transitioned into Data Science.
++ 💼 I currently work as a Data Analyst at a fintech, focusing on analytics and modeling to optimize debt collection strategies.
++ 🤖 I'm passionate about solving complex problems using Data Science, Machine Learning, and rigorous mathematical thinking.
 
 ## Skills
 
